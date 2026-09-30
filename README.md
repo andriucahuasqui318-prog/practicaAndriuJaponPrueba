@@ -4,3 +4,4 @@ Nombre: Andriu Japon
 Fecha: 30 de septiembre del 2026
 
 Descripcion: Proyecto de practica para demostrar el uso basico y intermedio de Git y GitHub
+Proyecto realizado para la práctica de Git y GitHub.
